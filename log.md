@@ -8,3 +8,22 @@
 
 **Link to work:** [Code Wars](http://www.codewars.com)
 
+
+
+### Day 1: January 23, 2019 
+
+**Today's Progress**: There was free day of code. It is allowed by the rules - one day in two weeks :D 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day 2: January 24, 2019 
+
+**Today's Progress**: Solved three tasks on codewars.com : "Pete, the baker" , "Decode the Morse code" and "Permutations"
+
+**Thoughts:** I don't know what I have to write here :DD 
+
+**Link to work:** [Code Wars](http://www.codewars.com)
