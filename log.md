@@ -22,7 +22,7 @@
 
 ### Day 2: January 24, 2019 
 
-**Today's Progress**: Solved three tasks on codewars.com : "Pete, the baker" , "Decode the Morse code" and "Permutations"
+**Today's Progress**: Solved three tasks on codewars.com : "Pete, the baker" , "Decode the Morse code" and "Permutations" + "Rot 13 Cipher" task code was refactored (20 strings -> 3 strings.. or something like that) 
 
 **Thoughts:** I don't know what I have to write here :DD 
 
